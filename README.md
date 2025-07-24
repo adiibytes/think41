@@ -78,11 +78,7 @@ The app will open at `http://localhost:3000`.
 4. View the timestamped list of your recent visits.
 5. Use **"Clear History"** to reset.
 
----
 
-
-
-> *(Add a screenshot of the UI here if submitting visually or uploading to GitHub)*
 
 ---
 
