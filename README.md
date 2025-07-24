@@ -1,4 +1,4 @@
-# 📘 URL Logger – React App
+# URL Logger – React App
 
 A simple and interactive React application that allows users to:
 
@@ -10,22 +10,22 @@ A simple and interactive React application that allows users to:
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ **Input field** to type a URL and log it.
-- 🔢 **User-defined display limit** for recent visit history.
-- 🧠 **Smart history logic**:
+-  **Input field** to type a URL and log it.
+-  **User-defined display limit** for recent visit history.
+-  **Smart history logic**:
   - Avoids duplicates.
   - Shows most recent entries at the top.
   - Caps history to 50 items.
-- 🗑️ **Clear History** button to reset all visits.
-- ⏱️ Timestamps shown for each visit in local time format.
-- 🔗 URLs are displayed in clickable format (optional enhancement).
-- 🎨 Tailwind CSS classes for basic styling.
+-  **Clear History** button to reset all visits.
+-  Timestamps shown for each visit in local time format.
+-  URLs are displayed in clickable format (optional enhancement).
+-  Tailwind CSS classes for basic styling.
 
 ---
 
-## 🖥️ Tech Stack
+##  Tech Stack
 
 - **React** (with `useState`)
 - **JavaScript (ES6+)**
@@ -33,7 +33,7 @@ A simple and interactive React application that allows users to:
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 src/
@@ -80,7 +80,7 @@ The app will open at `http://localhost:3000`.
 
 ---
 
-## 📸 Screenshot (Optional)
+
 
 > *(Add a screenshot of the UI here if submitting visually or uploading to GitHub)*
 
